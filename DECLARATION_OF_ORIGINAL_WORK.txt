@@ -1,0 +1,8 @@
+/* This is to certify that this project is my/our own work, based on my/our personal efforts in studying and applying
+the concepts learned. We have constructed the functions and their respective algorithms and corresponding codes
+either individually or with my group mate. The program was run, tested, and debugged by my/our own efforts.
+I/We further certify that I/we have not copied in part or whole or otherwise plagiarized the work of other
+students/groups and/or persons.
+
+John Benedict G. Santos
+DLSU ID 12486566 */
